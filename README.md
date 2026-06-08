@@ -25,4 +25,4 @@ The Game does not knowingly collect any personal information from children. All 
 
 ## 5. Contact Information
 
-If you have any questions or feedback regarding this Privacy Policy, please contact the repository administrator on GitHub.
+If you have any questions or feedback regarding this Privacy Policy, please contact us at thekami786@gmail.com or contact the repository administrator on GitHub.
